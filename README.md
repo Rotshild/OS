@@ -3,7 +3,7 @@
 **Группа - ББСО-01-18**  
 | Название директории | Ссылка на задание |
 | ------------| ------------------|
-| docker | [тут](https://github.com/bykvaadm/OS/tree/master/docker/labq)|
+| docker | [тут](https://github.com/bykvaadm/OS/tree/master/devops/docker/lab1)|
 | lab1 | [тут](https://github.com/bykvaadm/OS/tree/master/admin/lab1)|
 | lab2 | [тут](https://github.com/bykvaadm/OS/tree/master/admin/lab2)|
 | lab3 | [тут](https://github.com/bykvaadm/OS/tree/master/admin/lab3)|
