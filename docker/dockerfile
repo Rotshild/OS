@@ -1,0 +1,27 @@
+FROM debian
+WORKDIR /var/www/Rotshild.com
+
+ADD debian.list /etc/apt/sources.list.d/
+
+RUN apt-get -qq update && \
+    apt-get autoclean && \
+    apt-get install -y nginx && \
+    rm -rf /var/www/* && \
+    mkdir /var/www/Rotshild.com && \
+    mkdir /var/www/Rotshild.com/img 
+
+COPY index.html /var/www/Rotshild.com
+
+COPY img.jpg /var/www/Rotshild.com/img
+
+RUN chmod -R 754 /var/www/Rotshild.com && \
+    useradd Kirill && \
+    groupadd Dolgopolov && \
+    usermod -aG Dolgopolov Kirill && \
+    chown -R Kirill:Dolgopolov /var/www/Rotshild.com
+
+RUN sed -i 's/html/Rotshild.com/g' /etc/nginx/sites-enabled/default && \
+    sed -i 's/www-data/Kirill/g' /etc/nginx/nginx.conf && \
+    sed -i 's/index.htm/index.html/g' /etc/nginx/sites-enabled/default
+
+CMD ["nginx","-g","daemon off;"]
