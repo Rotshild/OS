@@ -1,7 +1,7 @@
 ### 1 задание  
 Использовал ls and cat  
 ZGFpejZhaFJhZVNhZXhhaWJ1YWYK  
-### 2 zadanie  
+### 2 задание 
 Сначала использовал команду ls and after cat .txt  
 Понял, что мне нужно открыть все файлы для этго нужно использовать цикл...  
 for i in /home/suzen/; do echo $i; cat $i; done;  
