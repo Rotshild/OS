@@ -3,7 +3,7 @@
 ZGFpejZhaFJhZVNhZXhhaWJ1YWYK  
 ### 2 задание 
 Сначала использовал команду ls and after cat .txt  
-Понял, что мне нужно открыть все файлы для этго нужно использовать цикл...  
+Понял, что мне нужно открыть все файлы для этого нужно использовать цикл...  
 for i in /home/suzen/; do echo $i; cat $i; done;  
 дальше нашел код:  
 dGhlaWxpM2FoWm9odGFpM2VldzMK  
