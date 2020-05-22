@@ -19,10 +19,8 @@ Y284ZWlxdXVlMmllTDNpZXBoNWUK
 d2FodmFoMWFlV2FpYmVlaG9vMmIK  
 ![Картинка](https://github.com/Rotshild/OS/blob/master/lab1/screenshots/14.jpg)
 ### 15 Задание
+Очень простое задание   ls .. TWVlMXdvaDJ6YWVoZWoyamllNm8K
 ![Картинка](https://github.com/Rotshild/OS/blob/master/lab1/screenshots/15.jpg)
-Очень простое задание   
-ls .. TWVlMXdvaDJ6YWVoZWoyamllNm8K
-
 ### 16 Задание
 Вводим команду id и получаем данные о пользователе:
 ZXVsb29naG91MFBob2g4T2hkYWkK
