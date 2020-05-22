@@ -13,7 +13,7 @@ dGhlaWxpM2FoWm9odGFpM2VldzMK
 и тк кроме листа нет никаких команд, прочитал по строчно нужный файл в данной директории  
 while read $LINE; do echo $LINE; done <./-diary.txt-;  
 Y284ZWlxdXVlMmllTDNpZXBoNWUK  
-![Картинка](https://github.com/Rotshild/OS/blob/master/lab1/screenshots/3.jpg)
+
 ### 14 Задание
 Здесь просто нужно использовать команды cd и ls для того, чтобы найти ключ.  
 d2FodmFoMWFlV2FpYmVlaG9vMmIK  
