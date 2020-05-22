@@ -10,7 +10,7 @@ dGhlaWxpM2FoWm9odGFpM2VldzMK
 ![Картинка](https://github.com/Rotshild/OS/blob/master/lab1/screenshots/2.jpg)
 ### 3 задание  
 сначала использовал ls  
-и тк кроме листа нет никаких команд, прочитал по строчно нужный файл в данной директории  
+и так как кроме листа нет никаких команд, прочитал по строчно нужный файл в данной директории  
 while read $LINE; do echo $LINE; done <./-diary.txt-;  
 Y284ZWlxdXVlMmllTDNpZXBoNWUK  
 ![Картинка](https://github.com/Rotshild/OS/blob/master/lab1/screenshots/3.jpg)
@@ -32,11 +32,11 @@ bmVlNm1lMEhhaU11M2thaGVpNmEK
 
 ![Картинка](https://github.com/Rotshild/OS/blob/master/lab1/screenshots/17.jpg)
 ### 18 Задание
-Документация по команде, для этого используем команду man <command>
+Документация по команде, для этого используем команду man diary 
 Y2hpZWNoM2VpRzRJZWtlaXNlbGUK
 ![Картинка](https://github.com/Rotshild/OS/blob/master/lab1/screenshots/18.jpg)
 ### 19 Задание
-Для того, чтобы создать ветку директорий нужно использовать команду mkdir с флагом -p
+Для того, чтобы создать ветку директорий нужно использовать команду mkdir(создание директории) с флагом -p(сразу нескольких вложенных)
 V2VpMGNvaHNoZWlxdWE0YWhnaG8K
 
 ![Картинка](https://github.com/Rotshild/OS/blob/master/lab1/screenshots/19.jpg)
@@ -46,7 +46,6 @@ YW1pZWhpaW0yb2h5NW9vRjZlaXcK
 
 ![Картинка](https://github.com/Rotshild/OS/blob/master/lab1/screenshots/20.jpg)
 ### 21 Задание
-Регулярочки
 1)rm [0-9].txt
 2)rm [a-z].png
 3)rm test-*.log
@@ -80,6 +79,7 @@ YWVnaG9venVvejd2b292OHNvaEwK
 
 ![Картинка](https://github.com/Rotshild/OS/blob/master/lab1/screenshots/24.jpg)
 ### 25 Задание
+ls и cat (вывод содержимого файла)
 cat file
 dGhlZThhcXVpZUNpTGFpdGhlZTkK
 
