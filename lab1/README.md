@@ -20,8 +20,7 @@ d2FodmFoMWFlV2FpYmVlaG9vMmIK
 ![Картинка](https://github.com/Rotshild/OS/blob/master/lab1/screenshots/14.jpg)
 ### 15 Задание
 Очень простое задание   
-ls ..
-TWVlMXdvaDJ6YWVoZWoyamllNm8K
+ls .. TWVlMXdvaDJ6YWVoZWoyamllNm8K
 ![Картинка](https://github.com/Rotshild/OS/blob/master/lab1/screenshots/15.jpg)
 ### 16 Задание
 Вводим команду id и получаем данные о пользователе:
