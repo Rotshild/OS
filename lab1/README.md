@@ -7,6 +7,7 @@ ZGFpejZhaFJhZVNhZXhhaWJ1YWYK
 for i in /home/suzen/; do echo $i; cat $i; done;  
 дальше нашел код:  
 dGhlaWxpM2FoWm9odGFpM2VldzMK  
+![Картинка](https://github.com/Rotshild/OS/blob/master/lab1/screenshots/2.jpg)
 ### 3 задание  
 сначала использовал ls  
 и тк кроме листа нет никаких команд, прочитал по строчно нужный файл в данной директории  
